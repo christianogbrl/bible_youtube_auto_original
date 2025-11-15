@@ -1,0 +1,511 @@
+[15:42:46] ℹ️ INFO  | Iniciando CapCut Editor...
+[15:42:53] ℹ️ INFO  | Acessando editor: https://www.capcut.com/editor?from_page=work_space&start_tab=video&enter_from=create_project&tab=all&__action_from=Christiano&workspaceId=7533642151549386813&scenario=custom
+[15:44:02] ℹ️ INFO  | Página carregada, aguardando 10s...
+[15:44:12] ✅ OK    | Editor pronto para uso!
+[15:44:12] 🐞 DBG   | Finalizando inicialização do CapCut (fase segura).
+[15:44:12] ✅ OK    | Overlays fechados.
+[15:44:12] ℹ️ INFO  | 1 arquivos encontrados em c:\Users\christiano.gabrieli\VisualCode\bible_youtube_auto\media_audios_fundo (.mp3)
+[15:44:13] ⚠️ WARN  | Card '01_background' não encontrado.
+[15:44:13] ℹ️ INFO  | 15 arquivos encontrados em c:\Users\christiano.gabrieli\VisualCode\bible_youtube_auto\media_audios_narracao (.mp3)
+[15:44:13] ⚠️ WARN  | Card '15_5_conclusao_parag_2' não encontrado.
+[15:44:13] ⚠️ WARN  | Card '14_5_conclusao_parag_1' não encontrado.
+[15:44:14] ⚠️ WARN  | Card '13_4_oracao_parag_3' não encontrado.
+[15:44:14] ⚠️ WARN  | Card '12_4_oracao_parag_2' não encontrado.
+[15:44:14] ⚠️ WARN  | Card '11_4_oracao_parag_1' não encontrado.
+[15:44:14] ⚠️ WARN  | Card '10_3_explicacao_parag_4' não encontrado.
+[15:44:15] ⚠️ WARN  | Card '09_3_explicacao_parag_3' não encontrado.
+[15:44:15] ⚠️ WARN  | Card '08_3_explicacao_parag_2' não encontrado.
+[15:44:15] ⚠️ WARN  | Card '07_3_explicacao_parag_1' não encontrado.
+[15:44:16] ⚠️ WARN  | Card '06_2_leitura_parag_3' não encontrado.
+[15:44:16] ⚠️ WARN  | Card '05_2_leitura_parag_2' não encontrado.
+[15:44:16] ⚠️ WARN  | Card '04_2_leitura_parag_1' não encontrado.
+[15:44:16] ⚠️ WARN  | Card '03_1_intro_parag_3' não encontrado.
+[15:44:17] ⚠️ WARN  | Card '02_1_intro_parag_2' não encontrado.
+[15:44:17] ⚠️ WARN  | Card '01_1_intro_parag_1' não encontrado.
+[15:44:17] ℹ️ INFO  | 5 arquivos encontrados em c:\Users\christiano.gabrieli\VisualCode\bible_youtube_auto\videos_downloads (.mp4)
+[15:44:17] ⚠️ WARN  | Card '05' não encontrado.
+[15:44:18] ⚠️ WARN  | Card '04' não encontrado.
+[15:44:18] ⚠️ WARN  | Card '03' não encontrado.
+[15:44:18] ⚠️ WARN  | Card '02' não encontrado.
+[15:44:18] ⚠️ WARN  | Card '01' não encontrado.
+[15:44:18] ⚠️ WARN  | Botão de mute não encontrado.
+[15:44:18] ✅ OK    | ✅ Script finalizado. O navegador permanece aberto para inspeção manual.
+[16:22:02] ℹ️ INFO  | Iniciando CapCut Editor...
+[16:22:07] ℹ️ INFO  | Acessando editor: https://www.capcut.com/editor?from_page=work_space&start_tab=video&enter_from=create_project&tab=all&__action_from=Christiano&workspaceId=7533642151549386813&scenario=custom
+[16:23:07] ℹ️ INFO  | Página carregada, aguardando 10s...
+[16:23:17] ✅ OK    | Editor pronto para uso!
+[16:23:17] 🐞 DBG   | Finalizando inicialização do CapCut (fase segura).
+[16:23:18] ✅ OK    | Overlays fechados.
+[16:23:18] ℹ️ INFO  | 1 arquivos encontrados em c:\Users\christiano.gabrieli\VisualCode\bible_youtube_auto\media_audios_fundo (.mp3)
+[16:23:48] ❌ ERR   | Falha ao clicar no card '01_background': ElementHandle.click: Timeout 30000ms exceeded.
+Call log:
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div aria-hidden="true" class="lv-modal-mask fadeModal-appear-done fadeModal-enter-done"></div> from <div>…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div aria-hidden="true" class="lv-modal-mask fadeModal-appear-done fadeModal-enter-done"></div> from <div>…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    54 × waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div aria-hidden="true" class="lv-modal-mask fadeModal-appear-done fadeModal-enter-done"></div> from <div>…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+
+[16:23:48] ℹ️ INFO  | 15 arquivos encontrados em c:\Users\christiano.gabrieli\VisualCode\bible_youtube_auto\media_audios_narracao (.mp3)
+[16:23:49] ✅ OK    | Card '15_5_conclusao_parag_2' arrastado para (467,562)
+[16:23:49] ✅ OK    | Card '14_5_conclusao_parag_1' arrastado para (467,562)
+[16:23:50] ✅ OK    | Card '13_4_oracao_parag_3' arrastado para (467,562)
+[16:23:50] ✅ OK    | Card '12_4_oracao_parag_2' arrastado para (467,562)
+[16:23:51] ✅ OK    | Card '11_4_oracao_parag_1' arrastado para (467,562)
+[16:23:51] ✅ OK    | Card '10_3_explicacao_parag_4' arrastado para (467,562)
+[16:23:52] ✅ OK    | Card '09_3_explicacao_parag_3' arrastado para (467,562)
+[16:23:52] ✅ OK    | Card '08_3_explicacao_parag_2' arrastado para (467,562)
+[16:23:53] ✅ OK    | Card '07_3_explicacao_parag_1' arrastado para (467,562)
+[16:23:53] ✅ OK    | Card '06_2_leitura_parag_3' arrastado para (467,562)
+[16:23:54] ✅ OK    | Card '05_2_leitura_parag_2' arrastado para (467,562)
+[16:23:54] ✅ OK    | Card '04_2_leitura_parag_1' arrastado para (467,562)
+[16:23:55] ✅ OK    | Card '03_1_intro_parag_3' arrastado para (467,562)
+[16:23:55] ✅ OK    | Card '02_1_intro_parag_2' arrastado para (467,562)
+[16:23:56] ✅ OK    | Card '01_1_intro_parag_1' arrastado para (467,562)
+[16:23:56] ℹ️ INFO  | 5 arquivos encontrados em c:\Users\christiano.gabrieli\VisualCode\bible_youtube_auto\videos_downloads (.mp4)
+[16:23:56] ✅ OK    | Card '05' arrastado para (468,540)
+[16:23:57] ✅ OK    | Card '04' arrastado para (468,540)
+[16:23:57] ✅ OK    | Card '03' arrastado para (468,540)
+[16:23:57] ✅ OK    | Card '02' arrastado para (468,540)
+[16:23:58] ✅ OK    | Card '01' arrastado para (468,540)
+[16:23:58] ⚠️ WARN  | Botão de mute não encontrado.
+[16:23:58] ✅ OK    | ✅ Script finalizado. O navegador permanece aberto para inspeção manual.
+[16:28:12] ℹ️ INFO  | Iniciando CapCut Editor...
+[17:35:59] ℹ️ INFO  | Iniciando CapCut Editor...
+[17:40:11] ℹ️ INFO  | Iniciando CapCut Editor...
+[17:40:16] ℹ️ INFO  | Acessando editor: https://www.capcut.com/editor?from_page=work_space&start_tab=video&enter_from=create_project&tab=all&__action_from=Christiano&workspaceId=7533642151549386813&scenario=custom
+[17:41:23] ℹ️ INFO  | Página carregada, aguardando 10s...
+[17:41:33] ✅ OK    | Editor pronto para uso!
+[17:41:33] 🐞 DBG   | Finalizando inicialização do CapCut (fase segura).
+[17:41:33] ✅ OK    | Overlays fechados.
+[17:41:33] ℹ️ INFO  | 1 arquivos encontrados em c:\Users\christiano.gabrieli\VisualCode\bible_youtube_auto\media_audios_fundo (.mp3)
+[17:42:04] ❌ ERR   | Falha ao clicar no card '01_background': ElementHandle.click: Timeout 30000ms exceeded.
+Call log:
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div aria-hidden="true" class="lv-modal-mask fadeModal-appear-done fadeModal-enter-done"></div> from <div>…</div> subtree intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div aria-hidden="true" class="lv-modal-mask fadeModal-appear-done fadeModal-enter-done"></div> from <div>…</div> subtree intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    56 × waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div aria-hidden="true" class="lv-modal-mask fadeModal-appear-done fadeModal-enter-done"></div> from <div>…</div> subtree intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+
+[17:42:04] ℹ️ INFO  | 15 arquivos encontrados em c:\Users\christiano.gabrieli\VisualCode\bible_youtube_auto\media_audios_narracao (.mp3)
+[17:42:04] ✅ OK    | Card '15_5_conclusao_parag_2' arrastado para (467,562)
+[17:42:05] ✅ OK    | Card '14_5_conclusao_parag_1' arrastado para (467,562)
+[17:42:05] ✅ OK    | Card '13_4_oracao_parag_3' arrastado para (467,562)
+[17:42:06] ✅ OK    | Card '12_4_oracao_parag_2' arrastado para (467,562)
+[17:42:06] ✅ OK    | Card '11_4_oracao_parag_1' arrastado para (467,562)
+[17:42:07] ✅ OK    | Card '10_3_explicacao_parag_4' arrastado para (467,562)
+[17:42:07] ✅ OK    | Card '09_3_explicacao_parag_3' arrastado para (467,562)
+[17:42:07] ✅ OK    | Card '08_3_explicacao_parag_2' arrastado para (467,562)
+[17:42:08] ✅ OK    | Card '07_3_explicacao_parag_1' arrastado para (467,562)
+[17:42:08] ✅ OK    | Card '06_2_leitura_parag_3' arrastado para (467,562)
+[17:42:09] ✅ OK    | Card '05_2_leitura_parag_2' arrastado para (467,562)
+[17:42:09] ✅ OK    | Card '04_2_leitura_parag_1' arrastado para (467,562)
+[17:42:10] ✅ OK    | Card '03_1_intro_parag_3' arrastado para (467,562)
+[17:42:10] ✅ OK    | Card '02_1_intro_parag_2' arrastado para (467,562)
+[17:42:10] ✅ OK    | Card '01_1_intro_parag_1' arrastado para (467,562)
+[17:42:10] ℹ️ INFO  | 5 arquivos encontrados em c:\Users\christiano.gabrieli\VisualCode\bible_youtube_auto\videos_downloads (.mp4)
+[17:42:11] ✅ OK    | Card '05' arrastado para (468,540)
+[17:42:11] ✅ OK    | Card '04' arrastado para (468,540)
+[17:42:12] ✅ OK    | Card '03' arrastado para (468,540)
+[17:42:12] ✅ OK    | Card '02' arrastado para (468,540)
+[17:42:12] ✅ OK    | Card '01' arrastado para (468,540)
+[17:42:12] ⚠️ WARN  | Botão de mute não encontrado.
+[17:42:12] ✅ OK    | ✅ Script finalizado. O navegador permanece aberto para inspeção manual.
+[17:45:43] ℹ️ INFO  | Iniciando CapCut Editor...
+[17:45:49] ℹ️ INFO  | Acessando editor: https://www.capcut.com/editor?from_page=work_space&start_tab=video&enter_from=create_project&tab=all&__action_from=Christiano&workspaceId=7533642151549386813&scenario=custom
+[17:46:47] ℹ️ INFO  | Página carregada, aguardando 10s...
+[17:46:57] ✅ OK    | Editor pronto para uso!
+[17:46:57] 🐞 DBG   | Finalizando inicialização do CapCut (fase segura).
+[17:46:57] 🐞 DBG   | Verificando overlays antes de continuar...
+[17:46:57] 🐞 DBG   | Overlay .lv-modal-mask removido.
+[17:46:57] 🐞 DBG   | Fechando popup interativo.
+[17:46:58] ❌ ERR   | Erro ao fechar overlays: ElementHandle.click: Element is not attached to the DOM
+Call log:
+  - attempting click action
+    - waiting for element to be visible, enabled and stable
+
+[17:46:58] ℹ️ INFO  | 1 arquivos encontrados em c:\Users\christiano.gabrieli\VisualCode\bible_youtube_auto\media_audios_fundo (.mp3)
+[17:46:58] 🐞 DBG   | Verificando overlays antes de continuar...
+[17:46:58] ✅ OK    | ✅ Overlays fechados.
+[17:46:58] ℹ️ INFO  | Clicando em '01_background'...
+[17:47:00] ✅ OK    | '01_background' adicionado com sucesso!
+[17:47:00] ℹ️ INFO  | 15 arquivos encontrados em c:\Users\christiano.gabrieli\VisualCode\bible_youtube_auto\media_audios_narracao (.mp3)
+[17:47:00] 🐞 DBG   | Verificando overlays antes de continuar...
+[17:47:00] ✅ OK    | ✅ Overlays fechados.
+[17:47:01] ✅ OK    | Card '15_5_conclusao_parag_2' arrastado para (467,562)
+[17:47:01] 🐞 DBG   | Verificando overlays antes de continuar...
+[17:47:01] ✅ OK    | ✅ Overlays fechados.
+[17:47:04] ✅ OK    | Card '14_5_conclusao_parag_1' arrastado para (467,562)
+[17:47:04] 🐞 DBG   | Verificando overlays antes de continuar...
+[17:47:04] ✅ OK    | ✅ Overlays fechados.
+[17:47:05] ✅ OK    | Card '13_4_oracao_parag_3' arrastado para (467,562)
+[17:47:05] 🐞 DBG   | Verificando overlays antes de continuar...
+[17:47:05] ✅ OK    | ✅ Overlays fechados.
+[17:47:06] ✅ OK    | Card '12_4_oracao_parag_2' arrastado para (467,562)
+[17:47:06] 🐞 DBG   | Verificando overlays antes de continuar...
+[17:47:06] ✅ OK    | ✅ Overlays fechados.
+[17:47:07] ✅ OK    | Card '11_4_oracao_parag_1' arrastado para (467,562)
+[17:47:07] 🐞 DBG   | Verificando overlays antes de continuar...
+[17:47:07] ✅ OK    | ✅ Overlays fechados.
+[17:47:08] ✅ OK    | Card '10_3_explicacao_parag_4' arrastado para (467,562)
+[17:47:08] 🐞 DBG   | Verificando overlays antes de continuar...
+[17:47:08] ✅ OK    | ✅ Overlays fechados.
+[17:47:09] ✅ OK    | Card '09_3_explicacao_parag_3' arrastado para (467,562)
+[17:47:09] 🐞 DBG   | Verificando overlays antes de continuar...
+[17:47:09] ✅ OK    | ✅ Overlays fechados.
+[17:47:10] ✅ OK    | Card '08_3_explicacao_parag_2' arrastado para (467,562)
+[17:47:10] 🐞 DBG   | Verificando overlays antes de continuar...
+[17:47:10] ✅ OK    | ✅ Overlays fechados.
+[17:47:11] ✅ OK    | Card '07_3_explicacao_parag_1' arrastado para (467,562)
+[17:47:11] 🐞 DBG   | Verificando overlays antes de continuar...
+[17:47:11] ✅ OK    | ✅ Overlays fechados.
+[17:47:11] ✅ OK    | Card '06_2_leitura_parag_3' arrastado para (467,562)
+[17:47:11] 🐞 DBG   | Verificando overlays antes de continuar...
+[17:47:11] ✅ OK    | ✅ Overlays fechados.
+[17:47:12] ✅ OK    | Card '05_2_leitura_parag_2' arrastado para (467,562)
+[17:47:12] 🐞 DBG   | Verificando overlays antes de continuar...
+[17:47:12] ✅ OK    | ✅ Overlays fechados.
+[17:47:13] ✅ OK    | Card '04_2_leitura_parag_1' arrastado para (467,562)
+[17:47:13] 🐞 DBG   | Verificando overlays antes de continuar...
+[17:47:13] ✅ OK    | ✅ Overlays fechados.
+[17:47:14] ✅ OK    | Card '03_1_intro_parag_3' arrastado para (467,562)
+[17:47:14] 🐞 DBG   | Verificando overlays antes de continuar...
+[17:47:14] ✅ OK    | ✅ Overlays fechados.
+[17:47:16] ✅ OK    | Card '02_1_intro_parag_2' arrastado para (467,562)
+[17:47:16] 🐞 DBG   | Verificando overlays antes de continuar...
+[17:47:16] ✅ OK    | ✅ Overlays fechados.
+[17:47:16] ✅ OK    | Card '01_1_intro_parag_1' arrastado para (467,562)
+[17:47:16] ℹ️ INFO  | 5 arquivos encontrados em c:\Users\christiano.gabrieli\VisualCode\bible_youtube_auto\videos_downloads (.mp4)
+[17:47:16] 🐞 DBG   | Verificando overlays antes de continuar...
+[17:47:16] ✅ OK    | ✅ Overlays fechados.
+[17:47:17] ✅ OK    | Card '05' arrastado para (468,540)
+[17:47:17] 🐞 DBG   | Verificando overlays antes de continuar...
+[17:47:17] ✅ OK    | ✅ Overlays fechados.
+[17:47:18] ✅ OK    | Card '04' arrastado para (468,540)
+[17:47:18] 🐞 DBG   | Verificando overlays antes de continuar...
+[17:47:18] ✅ OK    | ✅ Overlays fechados.
+[17:47:19] ✅ OK    | Card '03' arrastado para (468,540)
+[17:47:19] 🐞 DBG   | Verificando overlays antes de continuar...
+[17:47:19] ✅ OK    | ✅ Overlays fechados.
+[17:47:20] ✅ OK    | Card '02' arrastado para (468,540)
+[17:47:20] 🐞 DBG   | Verificando overlays antes de continuar...
+[17:47:20] ✅ OK    | ✅ Overlays fechados.
+[17:47:21] ✅ OK    | Card '01' arrastado para (468,540)
+[17:47:21] ✅ OK    | Botão de mute clicado.
+[17:47:21] ✅ OK    | Botão de mute clicado.
+[17:47:21] ✅ OK    | Botão de mute clicado.
+[17:47:21] ✅ OK    | Botão de mute clicado.
+[17:47:21] ✅ OK    | Botão de mute clicado.
+[17:47:22] ✅ OK    | Botão de mute clicado.
+[17:47:22] ✅ OK    | Botão de mute clicado.
+[17:47:22] ✅ OK    | Botão de mute clicado.
+[17:47:22] ✅ OK    | ✅ Script finalizado. O navegador permanece aberto para inspeção manual.
+[17:54:16] ℹ️ INFO  | Iniciando CapCut Editor...
+[17:54:21] ℹ️ INFO  | Acessando editor: https://www.capcut.com/editor?from_page=work_space&start_tab=video&enter_from=create_project&tab=all&__action_from=Christiano&workspaceId=7533642151549386813&scenario=custom
+[17:54:34] ❌ ERR   | Erro ao abrir o editor: Page.goto: Target page, context or browser has been closed
+Call log:
+  - navigating to "https://www.capcut.com/editor?from_page=work_space&start_tab=video&enter_from=create_project&tab=all&__action_from=Christiano&workspaceId=7533642151549386813&scenario=custom", waiting until "load"
+
+[17:54:34] 🐞 DBG   | Finalizando inicialização do CapCut (fase segura).
+[17:57:19] ℹ️ INFO  | Iniciando CapCut Editor...
+[17:57:25] ℹ️ INFO  | Acessando editor: https://www.capcut.com/editor?from_page=work_space&start_tab=video&enter_from=create_project&tab=all&__action_from=Christiano&workspaceId=7533642151549386813&scenario=custom
+[17:58:24] ℹ️ INFO  | Página carregada, aguardando 10s...
+[17:58:34] ✅ OK    | Editor pronto para uso!
+[17:58:34] 🐞 DBG   | Finalizando inicialização do CapCut (fase segura).
+[17:58:34] 🐞 DBG   | Verificando overlays antes de continuar...
+[17:58:35] 🐞 DBG   | Overlay .lv-modal-mask removido.
+[17:58:35] 🐞 DBG   | Fechando popup interativo.
+[17:58:36] ❌ ERR   | Erro ao fechar overlays: ElementHandle.click: Element is not attached to the DOM
+Call log:
+  - attempting click action
+    - waiting for element to be visible, enabled and stable
+
+[17:58:36] ✅ OK    | Painel da timeline arrastado: (843,492) -> (825,304)
+[17:58:36] ℹ️ INFO  | 1 arquivos encontrados em c:\Users\christiano.gabrieli\VisualCode\bible_youtube_auto\media_audios_fundo (.mp3)
+[17:58:36] 🐞 DBG   | Verificando overlays antes de continuar...
+[17:58:36] ✅ OK    | ✅ Overlays fechados.
+[17:58:37] ℹ️ INFO  | Clicando em '01_background'...
+[17:58:39] ✅ OK    | '01_background' adicionado com sucesso!
+[17:58:39] ℹ️ INFO  | 15 arquivos encontrados em c:\Users\christiano.gabrieli\VisualCode\bible_youtube_auto\media_audios_narracao (.mp3)
+[17:58:39] 🐞 DBG   | Verificando overlays antes de continuar...
+[17:58:39] ✅ OK    | ✅ Overlays fechados.
+[17:59:10] ⚠️ WARN  | ⏸️ Card anterior ao '15_5_conclusao_parag_2' ainda não foi adicionado (sem badge).
+[17:59:10] 🐞 DBG   | Verificando overlays antes de continuar...
+[17:59:10] ✅ OK    | ✅ Overlays fechados.
+[17:59:40] ⚠️ WARN  | ⏸️ Card anterior ao '14_5_conclusao_parag_1' ainda não foi adicionado (sem badge).
+[17:59:40] 🐞 DBG   | Verificando overlays antes de continuar...
+[17:59:41] ✅ OK    | ✅ Overlays fechados.
+[18:00:11] ⚠️ WARN  | ⏸️ Card anterior ao '13_4_oracao_parag_3' ainda não foi adicionado (sem badge).
+[18:00:11] 🐞 DBG   | Verificando overlays antes de continuar...
+[18:00:11] ✅ OK    | ✅ Overlays fechados.
+[18:00:42] ⚠️ WARN  | ⏸️ Card anterior ao '12_4_oracao_parag_2' ainda não foi adicionado (sem badge).
+[18:00:42] 🐞 DBG   | Verificando overlays antes de continuar...
+[18:00:42] ✅ OK    | ✅ Overlays fechados.
+[18:01:12] ⚠️ WARN  | ⏸️ Card anterior ao '11_4_oracao_parag_1' ainda não foi adicionado (sem badge).
+[18:01:12] 🐞 DBG   | Verificando overlays antes de continuar...
+[18:01:12] ✅ OK    | ✅ Overlays fechados.
+[18:01:43] ⚠️ WARN  | ⏸️ Card anterior ao '10_3_explicacao_parag_4' ainda não foi adicionado (sem badge).
+[18:01:43] 🐞 DBG   | Verificando overlays antes de continuar...
+[18:01:43] ✅ OK    | ✅ Overlays fechados.
+[18:01:50] ❌ ERR   | Erro ao arrastar '09_3_explicacao_parag_3': ElementHandle.query_selector: Target page, context or browser has been closed
+[18:01:50] 🐞 DBG   | Verificando overlays antes de continuar...
+[18:01:50] ❌ ERR   | Erro ao fechar overlays: Page.query_selector_all: Target page, context or browser has been closed
+[18:01:50] ❌ ERR   | Erro ao arrastar '08_3_explicacao_parag_2': Page.wait_for_selector: Target page, context or browser has been closed
+[18:01:50] 🐞 DBG   | Verificando overlays antes de continuar...
+[18:01:50] ❌ ERR   | Erro ao fechar overlays: Page.query_selector_all: Target page, context or browser has been closed
+[18:01:50] ❌ ERR   | Erro ao arrastar '07_3_explicacao_parag_1': Page.wait_for_selector: Target page, context or browser has been closed
+[18:01:50] 🐞 DBG   | Verificando overlays antes de continuar...
+[18:01:50] ❌ ERR   | Erro ao fechar overlays: Page.query_selector_all: Target page, context or browser has been closed
+[18:01:50] ❌ ERR   | Erro ao arrastar '06_2_leitura_parag_3': Page.wait_for_selector: Target page, context or browser has been closed
+[18:01:50] 🐞 DBG   | Verificando overlays antes de continuar...
+[18:01:50] ❌ ERR   | Erro ao fechar overlays: Page.query_selector_all: Target page, context or browser has been closed
+[18:01:50] ❌ ERR   | Erro ao arrastar '05_2_leitura_parag_2': Page.wait_for_selector: Target page, context or browser has been closed
+[18:01:50] 🐞 DBG   | Verificando overlays antes de continuar...
+[18:01:50] ❌ ERR   | Erro ao fechar overlays: Page.query_selector_all: Target page, context or browser has been closed
+[18:01:50] ❌ ERR   | Erro ao arrastar '04_2_leitura_parag_1': Page.wait_for_selector: Target page, context or browser has been closed
+[18:01:50] 🐞 DBG   | Verificando overlays antes de continuar...
+[18:01:50] ❌ ERR   | Erro ao fechar overlays: Page.query_selector_all: Target page, context or browser has been closed
+[18:01:50] ❌ ERR   | Erro ao arrastar '03_1_intro_parag_3': Page.wait_for_selector: Target page, context or browser has been closed
+[18:01:50] 🐞 DBG   | Verificando overlays antes de continuar...
+[18:01:50] ❌ ERR   | Erro ao fechar overlays: Page.query_selector_all: Target page, context or browser has been closed
+[18:01:50] ❌ ERR   | Erro ao arrastar '02_1_intro_parag_2': Page.wait_for_selector: Target page, context or browser has been closed
+[18:01:50] 🐞 DBG   | Verificando overlays antes de continuar...
+[18:01:50] ❌ ERR   | Erro ao fechar overlays: Page.query_selector_all: Target page, context or browser has been closed
+[18:01:50] ❌ ERR   | Erro ao arrastar '01_1_intro_parag_1': Page.wait_for_selector: Target page, context or browser has been closed
+[18:01:50] ℹ️ INFO  | 5 arquivos encontrados em c:\Users\christiano.gabrieli\VisualCode\bible_youtube_auto\videos_downloads (.mp4)
+[18:01:50] 🐞 DBG   | Verificando overlays antes de continuar...
+[18:01:50] ❌ ERR   | Erro ao fechar overlays: Page.query_selector_all: Target page, context or browser has been closed
+[18:01:50] ❌ ERR   | Erro ao arrastar '05': Page.wait_for_selector: Target page, context or browser has been closed
+[18:01:50] 🐞 DBG   | Verificando overlays antes de continuar...
+[18:01:50] ❌ ERR   | Erro ao fechar overlays: Page.query_selector_all: Target page, context or browser has been closed
+[18:01:50] ❌ ERR   | Erro ao arrastar '04': Page.wait_for_selector: Target page, context or browser has been closed
+[18:01:50] 🐞 DBG   | Verificando overlays antes de continuar...
+[18:01:50] ❌ ERR   | Erro ao fechar overlays: Page.query_selector_all: Target page, context or browser has been closed
+[18:01:50] ❌ ERR   | Erro ao arrastar '03': Page.wait_for_selector: Target page, context or browser has been closed
+[18:01:50] 🐞 DBG   | Verificando overlays antes de continuar...
+[18:01:50] ❌ ERR   | Erro ao fechar overlays: Page.query_selector_all: Target page, context or browser has been closed
+[18:01:50] ❌ ERR   | Erro ao arrastar '02': Page.wait_for_selector: Target page, context or browser has been closed
+[18:01:50] 🐞 DBG   | Verificando overlays antes de continuar...
+[18:01:50] ❌ ERR   | Erro ao fechar overlays: Page.query_selector_all: Target page, context or browser has been closed
+[18:01:50] ❌ ERR   | Erro ao arrastar '01': Page.wait_for_selector: Target page, context or browser has been closed
+[18:01:50] ❌ ERR   | Erro ao clicar no botão de mute: Page.query_selector_all: Target page, context or browser has been closed
+[18:01:50] ✅ OK    | ✅ Script finalizado. O navegador permanece aberto para inspeção manual.
+[18:02:26] ℹ️ INFO  | Iniciando CapCut Editor...
+[18:02:29] ℹ️ INFO  | Acessando editor: https://www.capcut.com/editor?from_page=work_space&start_tab=video&enter_from=create_project&tab=all&__action_from=Christiano&workspaceId=7533642151549386813&scenario=custom
+[18:03:22] ℹ️ INFO  | Página carregada, aguardando 10s...
+[18:03:32] ✅ OK    | Editor pronto para uso!
+[18:03:32] 🐞 DBG   | Finalizando inicialização do CapCut (fase segura).
+[18:03:32] 🐞 DBG   | Verificando overlays antes de continuar...
+[18:03:33] 🐞 DBG   | Overlay .lv-modal-mask removido.
+[18:03:33] 🐞 DBG   | Fechando popup interativo.
+[18:03:34] ✅ OK    | ✅ Overlays fechados.
+[18:03:35] ✅ OK    | Painel da timeline arrastado: (843,492) -> (825,304)
+[18:03:35] ℹ️ INFO  | 1 arquivos encontrados em c:\Users\christiano.gabrieli\VisualCode\bible_youtube_auto\media_audios_fundo (.mp3)
+[18:03:35] 🐞 DBG   | Verificando overlays antes de continuar...
+[18:03:35] ✅ OK    | ✅ Overlays fechados.
+[18:03:36] ℹ️ INFO  | Clicando em '01_background'...
+[18:03:39] ✅ OK    | '01_background' adicionado com sucesso!
+[18:03:39] ℹ️ INFO  | 15 arquivos encontrados em c:\Users\christiano.gabrieli\VisualCode\bible_youtube_auto\media_audios_narracao (.mp3)
+[18:03:39] 🐞 DBG   | Verificando overlays antes de continuar...
+[18:03:39] ✅ OK    | ✅ Overlays fechados.
+[18:04:10] ⚠️ WARN  | ⏸️ Card anterior ao '15_5_conclusao_parag_2' ainda não foi adicionado (sem badge).
+[18:04:10] 🐞 DBG   | Verificando overlays antes de continuar...
+[18:04:10] ✅ OK    | ✅ Overlays fechados.
+[18:04:40] ⚠️ WARN  | ⏸️ Card anterior ao '14_5_conclusao_parag_1' ainda não foi adicionado (sem badge).
+[18:04:41] 🐞 DBG   | Verificando overlays antes de continuar...
+[18:04:41] ✅ OK    | ✅ Overlays fechados.
+[18:05:12] ⚠️ WARN  | ⏸️ Card anterior ao '13_4_oracao_parag_3' ainda não foi adicionado (sem badge).
+[18:05:12] 🐞 DBG   | Verificando overlays antes de continuar...
+[18:05:12] ✅ OK    | ✅ Overlays fechados.
+[18:05:43] ⚠️ WARN  | ⏸️ Card anterior ao '12_4_oracao_parag_2' ainda não foi adicionado (sem badge).
+[18:05:43] 🐞 DBG   | Verificando overlays antes de continuar...
+[18:05:43] ✅ OK    | ✅ Overlays fechados.
+[18:06:14] ⚠️ WARN  | ⏸️ Card anterior ao '11_4_oracao_parag_1' ainda não foi adicionado (sem badge).
+[18:06:14] 🐞 DBG   | Verificando overlays antes de continuar...
+[18:06:14] ✅ OK    | ✅ Overlays fechados.
+[18:06:46] ⚠️ WARN  | ⏸️ Card anterior ao '10_3_explicacao_parag_4' ainda não foi adicionado (sem badge).
+[18:06:46] 🐞 DBG   | Verificando overlays antes de continuar...
+[18:06:46] ✅ OK    | ✅ Overlays fechados.
+[18:06:59] ❌ ERR   | Erro ao arrastar '09_3_explicacao_parag_3': ElementHandle.query_selector: Target page, context or browser has been closed
+[18:06:59] 🐞 DBG   | Verificando overlays antes de continuar...
+[18:06:59] ❌ ERR   | Erro ao fechar overlays: Page.query_selector_all: Target page, context or browser has been closed
+[18:06:59] ❌ ERR   | Erro ao arrastar '08_3_explicacao_parag_2': Page.wait_for_selector: Target page, context or browser has been closed
+[18:06:59] 🐞 DBG   | Verificando overlays antes de continuar...
+[18:06:59] ❌ ERR   | Erro ao fechar overlays: Page.query_selector_all: Target page, context or browser has been closed
+[18:06:59] ❌ ERR   | Erro ao arrastar '07_3_explicacao_parag_1': Page.wait_for_selector: Target page, context or browser has been closed
+[18:06:59] 🐞 DBG   | Verificando overlays antes de continuar...
+[18:06:59] ❌ ERR   | Erro ao fechar overlays: Page.query_selector_all: Target page, context or browser has been closed
+[18:06:59] ❌ ERR   | Erro ao arrastar '06_2_leitura_parag_3': Page.wait_for_selector: Target page, context or browser has been closed
+[18:06:59] 🐞 DBG   | Verificando overlays antes de continuar...
+[18:06:59] ❌ ERR   | Erro ao fechar overlays: Page.query_selector_all: Target page, context or browser has been closed
+[18:06:59] ❌ ERR   | Erro ao arrastar '05_2_leitura_parag_2': Page.wait_for_selector: Target page, context or browser has been closed
+[18:06:59] 🐞 DBG   | Verificando overlays antes de continuar...
+[18:06:59] ❌ ERR   | Erro ao fechar overlays: Page.query_selector_all: Target page, context or browser has been closed
+[18:06:59] ❌ ERR   | Erro ao arrastar '04_2_leitura_parag_1': Page.wait_for_selector: Target page, context or browser has been closed
+[18:06:59] 🐞 DBG   | Verificando overlays antes de continuar...
+[18:06:59] ❌ ERR   | Erro ao fechar overlays: Page.query_selector_all: Target page, context or browser has been closed
+[18:06:59] ❌ ERR   | Erro ao arrastar '03_1_intro_parag_3': Page.wait_for_selector: Target page, context or browser has been closed
+[18:06:59] 🐞 DBG   | Verificando overlays antes de continuar...
+[18:06:59] ❌ ERR   | Erro ao fechar overlays: Page.query_selector_all: Target page, context or browser has been closed
+[18:06:59] ❌ ERR   | Erro ao arrastar '02_1_intro_parag_2': Page.wait_for_selector: Target page, context or browser has been closed
+[18:06:59] 🐞 DBG   | Verificando overlays antes de continuar...
+[18:06:59] ❌ ERR   | Erro ao fechar overlays: Page.query_selector_all: Target page, context or browser has been closed
+[18:06:59] ❌ ERR   | Erro ao arrastar '01_1_intro_parag_1': Page.wait_for_selector: Target page, context or browser has been closed
+[18:06:59] ℹ️ INFO  | 5 arquivos encontrados em c:\Users\christiano.gabrieli\VisualCode\bible_youtube_auto\videos_downloads (.mp4)
+[18:06:59] 🐞 DBG   | Verificando overlays antes de continuar...
+[18:06:59] ❌ ERR   | Erro ao fechar overlays: Page.query_selector_all: Target page, context or browser has been closed
+[18:06:59] ❌ ERR   | Erro ao arrastar '05': Page.wait_for_selector: Target page, context or browser has been closed
+[18:06:59] 🐞 DBG   | Verificando overlays antes de continuar...
+[18:06:59] ❌ ERR   | Erro ao fechar overlays: Page.query_selector_all: Target page, context or browser has been closed
+[18:06:59] ❌ ERR   | Erro ao arrastar '04': Page.wait_for_selector: Target page, context or browser has been closed
+[18:06:59] 🐞 DBG   | Verificando overlays antes de continuar...
+[18:06:59] ❌ ERR   | Erro ao fechar overlays: Page.query_selector_all: Target page, context or browser has been closed
+[18:06:59] ❌ ERR   | Erro ao arrastar '03': Page.wait_for_selector: Target page, context or browser has been closed
+[18:06:59] 🐞 DBG   | Verificando overlays antes de continuar...
+[18:06:59] ❌ ERR   | Erro ao fechar overlays: Page.query_selector_all: Target page, context or browser has been closed
+[18:06:59] ❌ ERR   | Erro ao arrastar '02': Page.wait_for_selector: Target page, context or browser has been closed
+[18:06:59] 🐞 DBG   | Verificando overlays antes de continuar...
+[18:06:59] ❌ ERR   | Erro ao fechar overlays: Page.query_selector_all: Target page, context or browser has been closed
+[18:06:59] ❌ ERR   | Erro ao arrastar '01': Page.wait_for_selector: Target page, context or browser has been closed
+[18:06:59] ❌ ERR   | Erro ao clicar no botão de mute: Page.query_selector_all: Target page, context or browser has been closed
+[18:06:59] ✅ OK    | ✅ Script finalizado. O navegador permanece aberto para inspeção manual.
+[18:20:13] ℹ️ INFO  | Iniciando CapCut Editor...
+[18:20:18] ℹ️ INFO  | Acessando editor: https://www.capcut.com/editor?from_page=work_space&start_tab=video&enter_from=create_project&tab=all&__action_from=Christiano&workspaceId=7533642151549386813&scenario=custom
+[18:21:21] ℹ️ INFO  | Página carregada, aguardando 10s...
+[18:21:31] ✅ OK    | Editor pronto para uso!
+[18:21:31] 🐞 DBG   | Finalizando inicialização do CapCut (fase segura).
+[18:21:31] 🐞 DBG   | Verificando overlays antes de continuar...
+[18:21:31] 🐞 DBG   | Overlay .lv-modal-mask removido.
+[18:21:32] 🐞 DBG   | Fechando popup interativo.
+[18:21:32] ❌ ERR   | Erro ao fechar overlays: ElementHandle.click: Element is not attached to the DOM
+Call log:
+  - attempting click action
+    - waiting for element to be visible, enabled and stable
+
+[18:21:33] ✅ OK    | Painel da timeline arrastado: (843,492) -> (825,304)
+[18:21:33] ℹ️ INFO  | 1 arquivos encontrados em c:\Users\christiano.gabrieli\VisualCode\bible_youtube_auto\media_audios_fundo (.mp3)
+[18:21:33] 🐞 DBG   | Verificando overlays antes de continuar...
+[18:21:33] ✅ OK    | ✅ Overlays fechados.
+[18:21:34] ℹ️ INFO  | Clicando em '01_background'...
+[18:21:35] ✅ OK    | '01_background' adicionado com sucesso!
+[18:21:35] ℹ️ INFO  | 15 arquivos encontrados em c:\Users\christiano.gabrieli\VisualCode\bible_youtube_auto\media_audios_narracao (.mp3)
+[18:21:35] 🐞 DBG   | Verificando overlays antes de continuar...
+[18:21:35] ✅ OK    | ✅ Overlays fechados.
+[18:21:35] 🐞 DBG   | Encerrando contexto (final).
+[18:25:24] ℹ️ INFO  | Iniciando CapCut Editor...
+[18:25:29] ℹ️ INFO  | Acessando editor: https://www.capcut.com/editor?from_page=work_space&start_tab=video&enter_from=create_project&tab=all&__action_from=Christiano&workspaceId=7533642151549386813&scenario=custom
+[18:26:29] ℹ️ INFO  | Página carregada, aguardando 10s...
+[18:26:39] ✅ OK    | Editor pronto para uso!
+[18:26:39] 🐞 DBG   | Finalizando inicialização do CapCut (fase segura).
+[18:26:39] 🐞 DBG   | Verificando overlays antes de continuar...
+[18:26:40] 🐞 DBG   | Overlay .lv-modal-mask removido.
+[18:26:40] 🐞 DBG   | Fechando popup interativo.
+[18:26:41] ❌ ERR   | Erro ao fechar overlays: ElementHandle.click: Element is not attached to the DOM
+Call log:
+  - attempting click action
+    - waiting for element to be visible, enabled and stable
+
+[18:26:41] ✅ OK    | Painel da timeline arrastado: (843,492) -> (825,304)
+[18:26:41] ℹ️ INFO  | 1 arquivos encontrados em c:\Users\christiano.gabrieli\VisualCode\bible_youtube_auto\media_audios_fundo (.mp3)
+[18:26:41] 🐞 DBG   | Verificando overlays antes de continuar...
+[18:26:41] ✅ OK    | ✅ Overlays fechados.
+[18:26:42] ℹ️ INFO  | Clicando em '01_background'...
+[18:26:43] ✅ OK    | '01_background' adicionado com sucesso!
+[18:26:43] ℹ️ INFO  | 15 arquivos encontrados em c:\Users\christiano.gabrieli\VisualCode\bible_youtube_auto\media_audios_narracao (.mp3)
+[18:26:43] 🐞 DBG   | Verificando overlays antes de continuar...
+[18:26:44] ✅ OK    | ✅ Overlays fechados.
+[18:26:44] 🐞 DBG   | Primeiro card do loop '15_5_conclusao_parag_2', arrastando direto.
+[18:26:46] ✅ OK    | Card '15_5_conclusao_parag_2' arrastado para (467,562)
+[18:26:46] 🐞 DBG   | Verificando overlays antes de continuar...
+[18:26:46] ✅ OK    | ✅ Overlays fechados.
+[18:27:17] ⚠️ WARN  | ⏸️ Card anterior ao '14_5_conclusao_parag_1' ainda não foi adicionado (sem badge).
+[18:27:17] 🐞 DBG   | Verificando overlays antes de continuar...
+[18:27:17] ✅ OK    | ✅ Overlays fechados.
+[18:27:47] ⚠️ WARN  | ⏸️ Card anterior ao '13_4_oracao_parag_3' ainda não foi adicionado (sem badge).
+[18:27:47] 🐞 DBG   | Verificando overlays antes de continuar...
+[18:27:47] ✅ OK    | ✅ Overlays fechados.
+[18:28:00] ❌ ERR   | Erro ao arrastar '12_4_oracao_parag_2': ElementHandle.query_selector: Target page, context or browser has been closed
+[18:28:00] 🐞 DBG   | Verificando overlays antes de continuar...
+[18:28:00] ❌ ERR   | Erro ao fechar overlays: Page.query_selector_all: Target page, context or browser has been closed
+[18:28:00] ❌ ERR   | Erro ao arrastar '11_4_oracao_parag_1': Page.wait_for_selector: Target page, context or browser has been closed
+[18:28:00] 🐞 DBG   | Verificando overlays antes de continuar...
+[18:28:01] ❌ ERR   | Erro ao fechar overlays: Page.query_selector_all: Target page, context or browser has been closed
+[18:28:01] ❌ ERR   | Erro ao arrastar '10_3_explicacao_parag_4': Page.wait_for_selector: Target page, context or browser has been closed
+[18:28:01] 🐞 DBG   | Verificando overlays antes de continuar...
+[18:28:01] ❌ ERR   | Erro ao fechar overlays: Page.query_selector_all: Target page, context or browser has been closed
+[18:28:01] ❌ ERR   | Erro ao arrastar '09_3_explicacao_parag_3': Page.wait_for_selector: Target page, context or browser has been closed
+[18:28:01] 🐞 DBG   | Verificando overlays antes de continuar...
+[18:28:01] ❌ ERR   | Erro ao fechar overlays: Page.query_selector_all: Target page, context or browser has been closed
+[18:28:01] ❌ ERR   | Erro ao arrastar '08_3_explicacao_parag_2': Page.wait_for_selector: Target page, context or browser has been closed
+[18:28:01] 🐞 DBG   | Verificando overlays antes de continuar...
+[18:28:01] ❌ ERR   | Erro ao fechar overlays: Page.query_selector_all: Target page, context or browser has been closed
+[18:28:01] ❌ ERR   | Erro ao arrastar '07_3_explicacao_parag_1': Page.wait_for_selector: Target page, context or browser has been closed
+[18:28:01] 🐞 DBG   | Verificando overlays antes de continuar...
+[18:28:01] ❌ ERR   | Erro ao fechar overlays: Page.query_selector_all: Target page, context or browser has been closed
+[18:28:01] ❌ ERR   | Erro ao arrastar '06_2_leitura_parag_3': Page.wait_for_selector: Target page, context or browser has been closed
+[18:28:01] 🐞 DBG   | Verificando overlays antes de continuar...
+[18:28:01] ❌ ERR   | Erro ao fechar overlays: Page.query_selector_all: Target page, context or browser has been closed
+[18:28:01] ❌ ERR   | Erro ao arrastar '05_2_leitura_parag_2': Page.wait_for_selector: Target page, context or browser has been closed
+[18:28:01] 🐞 DBG   | Verificando overlays antes de continuar...
+[18:28:01] ❌ ERR   | Erro ao fechar overlays: Page.query_selector_all: Target page, context or browser has been closed
+[18:28:01] ❌ ERR   | Erro ao arrastar '04_2_leitura_parag_1': Page.wait_for_selector: Target page, context or browser has been closed
+[18:28:01] 🐞 DBG   | Verificando overlays antes de continuar...
+[18:28:01] ❌ ERR   | Erro ao fechar overlays: Page.query_selector_all: Target page, context or browser has been closed
+[18:28:01] ❌ ERR   | Erro ao arrastar '03_1_intro_parag_3': Page.wait_for_selector: Target page, context or browser has been closed
+[18:28:01] 🐞 DBG   | Verificando overlays antes de continuar...
+[18:28:01] ❌ ERR   | Erro ao fechar overlays: Page.query_selector_all: Target page, context or browser has been closed
+[18:28:01] ❌ ERR   | Erro ao arrastar '02_1_intro_parag_2': Page.wait_for_selector: Target page, context or browser has been closed
+[18:28:01] 🐞 DBG   | Verificando overlays antes de continuar...
+[18:28:01] ❌ ERR   | Erro ao fechar overlays: Page.query_selector_all: Target page, context or browser has been closed
+[18:28:01] ❌ ERR   | Erro ao arrastar '01_1_intro_parag_1': Page.wait_for_selector: Target page, context or browser has been closed
+[18:28:01] ℹ️ INFO  | 5 arquivos encontrados em c:\Users\christiano.gabrieli\VisualCode\bible_youtube_auto\videos_downloads (.mp4)
+[18:28:01] 🐞 DBG   | Verificando overlays antes de continuar...
+[18:28:01] ❌ ERR   | Erro ao fechar overlays: Page.query_selector_all: Target page, context or browser has been closed
+[18:28:01] ❌ ERR   | Erro ao arrastar '05': Page.wait_for_selector: Target page, context or browser has been closed
+[18:28:01] 🐞 DBG   | Verificando overlays antes de continuar...
+[18:28:01] ❌ ERR   | Erro ao fechar overlays: Page.query_selector_all: Target page, context or browser has been closed
+[18:28:01] ❌ ERR   | Erro ao arrastar '04': Page.wait_for_selector: Target page, context or browser has been closed
+[18:28:01] 🐞 DBG   | Verificando overlays antes de continuar...
+[18:28:01] ❌ ERR   | Erro ao fechar overlays: Page.query_selector_all: Target page, context or browser has been closed
+[18:28:01] ❌ ERR   | Erro ao arrastar '03': Page.wait_for_selector: Target page, context or browser has been closed
+[18:28:01] 🐞 DBG   | Verificando overlays antes de continuar...
+[18:28:01] ❌ ERR   | Erro ao fechar overlays: Page.query_selector_all: Target page, context or browser has been closed
+[18:28:01] ❌ ERR   | Erro ao arrastar '02': Page.wait_for_selector: Target page, context or browser has been closed
+[18:28:01] 🐞 DBG   | Verificando overlays antes de continuar...
+[18:28:01] ❌ ERR   | Erro ao fechar overlays: Page.query_selector_all: Target page, context or browser has been closed
+[18:28:01] ❌ ERR   | Erro ao arrastar '01': Page.wait_for_selector: Target page, context or browser has been closed
+[18:28:01] ❌ ERR   | Erro ao clicar no botão de mute: Page.query_selector_all: Target page, context or browser has been closed
+[18:28:01] ✅ OK    | ✅ Script finalizado. O navegador permanece aberto para inspeção manual.
