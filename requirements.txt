@@ -1,0 +1,48 @@
+# ==============================
+# 🔹 Núcleo do projeto
+# ==============================
+requests
+tqdm
+numpy
+opencv-python
+pillow
+python-dotenv
+
+# ==============================
+# 🔹 Áudio e vídeo
+# ==============================
+mutagen
+ffmpeg-python
+moviepy
+
+# ==============================
+# 🔹 IA e Google APIs
+# ==============================
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+google-genai
+openai
+elevenlabs
+playwright
+pynput
+
+# ==============================
+# 🔹 Upload e automação
+# ==============================
+yt-dlp
+aiohttp
+beautifulsoup4
+
+# ==============================
+# 🔹 Render e compatibilidade
+# ==============================
+gunicorn
+fastapi
+uvicorn
+
+# ==============================
+# 🔹 Utilitários extras
+# ==============================
+python-dateutil
